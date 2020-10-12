@@ -1,0 +1,47 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#color-full-blue {
+    color: #0000ff;
+}
+
+#color-lessfull-blue {
+    color: rgb(56, 56, 248);
+}
+
+#color-half-blue {
+    color: royalblue;
+}
+
+#color-lesshalf-blue {
+    color: cornflowerblue;
+}
+
+#color-light-blue {
+    color: skyblue;
+}
+
+#color-morelight-blue {
+    color: paleturquoise;
+}
+
+#color-wheat {
+    color: wheat;
+}
+
+#color-light-orange {
+    color: rgb(244, 215, 67);
+}
+
+#color-orange {
+    color: orange;
+}
+
+#color-dark-orange {
+    color: orangered;
+}
+
+#color-orangered {
+    color: red;
+}
